@@ -1,6 +1,5 @@
 # PJATK-APBD-Cw5-s32797
 
-Projekt wykonany w ramach zajęć **APBD**.  
 Aplikacja została przygotowana jako **ASP.NET Core Web API** oparta na kontrolerach.
 
 ## Opis
